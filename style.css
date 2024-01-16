@@ -121,6 +121,7 @@
    font-size: 1em;
    text-indent: 30px;
    line-height: 2em;
+   border-radius: 2px;
  }
  main a {
    background-color: var(--cor3);
